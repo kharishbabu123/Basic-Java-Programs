@@ -1,5 +1,3 @@
-package BasicJavaPrograms;
-
 public class Sort {
     
     /* Bubble Sort

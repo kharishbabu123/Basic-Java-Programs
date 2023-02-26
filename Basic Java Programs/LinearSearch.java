@@ -1,5 +1,3 @@
-package BasicJavaPrograms;
-
 import java.util.Scanner;
 
 /*
